@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-TMDb_Salma_SAAD", "API-TMDb_Salma_SAAD\API-TMDb_Salma_SAAD.csproj", "{4409AA05-E3A2-4A5B-9128-9FFD35CC1DB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4409AA05-E3A2-4A5B-9128-9FFD35CC1DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4409AA05-E3A2-4A5B-9128-9FFD35CC1DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4409AA05-E3A2-4A5B-9128-9FFD35CC1DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4409AA05-E3A2-4A5B-9128-9FFD35CC1DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD0E2F69-7084-4EA4-ACDD-9DC6D7ACEB81}
+	EndGlobalSection
+EndGlobal
